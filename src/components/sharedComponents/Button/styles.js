@@ -1,5 +1,4 @@
 import styled from "styled-components/macro";
-import {Button} from "../../styledElements";
 import {Link} from "react-router-dom";
 
 export const Btn = styled(Link)`

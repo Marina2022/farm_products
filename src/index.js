@@ -6,7 +6,6 @@ import Order from "./components/pages/Order/Order";
 import products from "./mocks/products";
 import MainPage from "./components/pages/MainPage/MainPage";
 import NotFound from "./components/layout/NotFound";
-import ScrollToTop from "./components/layout/ScrollToTop";
 
 
 const router = createBrowserRouter([
